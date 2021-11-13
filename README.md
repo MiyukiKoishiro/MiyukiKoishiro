@@ -43,6 +43,7 @@ I also like to share knowledge about what I know to share with others, if you wa
 </p>
 <br>
 <h2>                Contact Me</h2>
+<br>
 <img src="https://i.pinimg.com/originals/e3/b9/aa/e3b9aa35a964c4861d1b77cc20aba89a.gif" alt="" align="right" height="205px">
 <p align="center">Hewe awe some of my <br>
 most used s-s-sociaw things >~< xoxox</p>
