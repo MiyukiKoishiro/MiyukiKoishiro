@@ -61,4 +61,3 @@ most used s-s-sociaw things >~< xoxox</p>
 <hr>
 </div> 
 </body>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiyukiKoishiro&theme=radical)
