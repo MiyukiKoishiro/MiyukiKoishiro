@@ -30,7 +30,7 @@
 </p>
 </div>
 <div align="left" font-size:"24px">
-    <h2>         Knowladge</h2>
+    <h2>           Knowladge</h2>
                     
  <img src="https://c.tenor.com/Y0-GHTlcnGoAAAAd/ranko-kanzaki-anime.gif" alt="" align=right height="220px">
 </div>
@@ -42,7 +42,7 @@ i'm not very good at writing nonsense like this, but i will try to make xD, righ
 I also like to share knowledge about what I know to share with others, if you want to ask anything, ask me, I will answer as best I can..
 </p>
 <br>
-<h2>             Contact Me</h2>
+<h2>                Contact Me</h2>
 <img src="https://i.pinimg.com/originals/e3/b9/aa/e3b9aa35a964c4861d1b77cc20aba89a.gif" alt="" align="right" height="205px">
 <p align="center">Hewe awe some of my <br>
 most used s-s-sociaw things >~< xoxox</p>
