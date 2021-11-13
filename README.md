@@ -10,27 +10,27 @@
 <img src="https://c.tenor.com/qGacG6IN77QAAAAC/mishigami-yu.gif" alt="" align="right" width="200px">
 <br>
 <li>
-    <b>Name  :</b> Ariq Khoiri
+<b>Name  :</b> Ariq Khoiri
 </li>
 <li>
-    <b>Gender:</b> Male
+<b>Gender:</b> Male
 </li>
 <li>
-    <b>Loves :</b> Ranko Kanzaki, Sakurajima Mai, Tsukasa Chan, Yukinon >//<
+<b>Loves :</b> Ranko Kanzaki, Sakurajima Mai, Tsukasa Chan, Yukinon >//<
 </li>
 <li>
-    <b>Hobby :</b> Web Development, Watching Anime, Listening to Music
-    </li>
+<b>Hobby :</b> Web Development, Watching Anime, Listening to Music
+</li>
 <li>
-    <b>Yume:</b> I have a dream to become backend developer in  Japan
+<b>Yume:</b> I have a dream to become backend developer in  Japan
 </li>
 <br>
-<b>     Funfat, Ordinary People, but.. have otaku culture<br>
-                        and also have many 2d wives>/< </b>
+<b>         Funfat, Ordinary People, but.. have otaku culture<br>
+                    and also have many 2d wives>/< </b>
 </p>
 </div>
 <div align="left" font-size:"24px">
-    <h2>           Knowladge</h2>
+<h2>           Knowladge</h2>
                     
  <img src="https://c.tenor.com/Y0-GHTlcnGoAAAAd/ranko-kanzaki-anime.gif" alt="" align=right height="220px">
 </div>
