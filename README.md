@@ -32,7 +32,7 @@
 <div align="left" font-size:"24px">
     <h2>         Knowladge</h2>
                     
-    <img src="https://c.tenor.com/Y0-GHTlcnGoAAAAd/ranko-kanzaki-anime.gif" alt="" align=right height="220px">
+ <img src="https://c.tenor.com/Y0-GHTlcnGoAAAAd/ranko-kanzaki-anime.gif" alt="" align=right height="220px">
 </div>
 <div>
 <p align="center"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt=""> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt=""> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt=""><br>
