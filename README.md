@@ -49,7 +49,7 @@ I also like to share knowledge about what I know to share with others, if you wa
 most used s-s-sociaw things >~< xoxox</p>
 
 <p align="center"><a href=" https://telegram.me/@yukoime"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt=""></a> <a href="https://discordapp.com/users/847054856497659954/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt=""></a> <a href="mailto:chiisanayumee@gmail.com?subject=subject&cc=chiisanayumee@gmail.com"><img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=""></a></p>
-<p align="center"><a href="https://api.whatsapp.com/send?phone=082351252125"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt=""></a></p>
+<p align="center"><a href="https://api.whatsapp.com/send?phone=+6282351252125"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt=""></a></p>
 </div>
 <br>
 <br>
