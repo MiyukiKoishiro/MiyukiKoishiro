@@ -38,8 +38,8 @@
 <p align="center"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt=""> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt=""> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt=""><br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt=""> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt=""><br><br>
 
-i'm not very good at writing nonsense like this, but i will try to make xD, right now i really have to learn a lot and realize all the dreams i want to achieve, 
-I also like to share knowledge about what I know to share with others, if you want to ask anything, ask me, I will answer as best I can..
+<div align="center">i'm not very good at writing nonsense like this, but i will try to make xD, right now i really have to learn a lot and realize all the dreams i want to achieve, 
+I also like to share knowledge about what I know to share with others, if you want to ask anything, ask me, I will answer as best I can.</div>.
 </p>
 <br>
 <h2>                Contact Me</h2>
