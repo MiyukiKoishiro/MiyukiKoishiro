@@ -7,7 +7,7 @@
 <br>
 <div>
 <h2 align="center" text-size:"24px">About Me</h2>
-<img src="https://c.tenor.com/0mfWXRaFWNIAAAAC/emilia-re-zero.gif" alt="" align="right" width="200px">
+<img src="https://c.tenor.com/0mfWXRaFWNIAAAAC/emilia-re-zero.gif" alt="" align="right" width="180px">
 <br>
 <li>
 <b>Name  :</b> Ariq Khoiri
