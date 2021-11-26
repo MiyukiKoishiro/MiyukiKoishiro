@@ -31,8 +31,7 @@
  <img src="https://c.tenor.com/Y0-GHTlcnGoAAAAd/ranko-kanzaki-anime.gif" alt="" align=right height="220px">
 </div>
 <div>
-<p align="center"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt=""> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt=""> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt=""><br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt=""> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt=""><br><br>
+<p align="center"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt=""> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt=""><br><br>
 
 <div align="center">i'm not very good at writing nonsense like this, but i will try to make xD, right now i really have to learn a lot and realize all the dreams i want to achieve, 
 I also like to share knowledge about what I know to share with others, if you want to ask anything, ask me, I will answer as best I can.</div>.
@@ -48,7 +47,7 @@ most used s-s-sociaw things >~< xoxox</p>
 <p align="center"><a href="https://api.whatsapp.com/send?phone=+6282351252125"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt=""></a></p>
 </div>
 <br>
-
+<br>
 ![github stats](https://github-readme-stats.vercel.app/api?username=MiyukiKoishiro&show_icons=true&theme=radical)
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=MiyukiKoishiro&layout=compact&theme=nightowl)
 
