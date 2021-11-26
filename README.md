@@ -25,8 +25,7 @@
 <b>Yume:</b> I have a dream to become backend developer in  Japan
 </li>
 <br>
-<b>         Funfat, Ordinary People, but.. have otaku culture<br>
-                    and also have many 2d wives>/< </b>
+<b>         Funfact, Anime Lovers and Tech Entusiast /< </b>
 </p>
 </div>
 <div align="left" font-size:"24px">
