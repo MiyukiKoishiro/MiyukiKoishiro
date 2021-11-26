@@ -22,7 +22,7 @@
 <b>Dream:</b> I have a dream to become backend developer in  Japan
 </li>
 <br>
-<b>         Funfact, Anime Lovers and Tech Entusiast </b>
+<b>         Funfact, Anime Lovers and Tech Enthusiast </b>
 </p>
 </div>
 <div align="left" font-size:"24px">
