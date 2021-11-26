@@ -31,7 +31,7 @@
  <img src="https://c.tenor.com/Y0-GHTlcnGoAAAAd/ranko-kanzaki-anime.gif" alt="" align=right height="220px">
 </div>
 <div>
-<p align="center"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt=""> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt=""><br><
+<p align="center"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt=""> ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt=""><br><
 
 <div align="center">i'm not very good at writing nonsense like this, but i will try to make xD, right now i really have to learn a lot and realize all the dreams i want to achieve, 
 I also like to share knowledge about what I know to share with others, if you want to ask anything, ask me, I will answer as best I can.</div>.
