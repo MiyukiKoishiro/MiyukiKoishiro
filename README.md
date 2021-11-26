@@ -1,5 +1,5 @@
 <body>
-<h1 align="center">Konichiwa, Welcome to my Profile</h1>
+<h1 align="center">Welcome to my Profile</h1>
 <br>
 <div align="center">
 <img src="https://c.tenor.com/DEBVzQIAjWwAAAAC/mai-sakurajima.gif" alt="">
@@ -16,13 +16,10 @@
 <b>Gender:</b> Male
 </li>
 <li>
-<b>Loves :</b> Ranko Kanzaki, Sakurajima Mai, Tsukasa Chan, Yukinon >//<
-</li>
-<li>
 <b>Hobby :</b> Web Development, Watching Anime, Listening to Music
 </li>
 <li>
-<b>Yume:</b> I have a dream to become backend developer in  Japan
+<b>Dream:</b> I have a dream to become backend developer in  Japan
 </li>
 <br>
 <b>         Funfact, Anime Lovers and Tech Entusiast /< </b>
