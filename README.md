@@ -48,11 +48,6 @@ most used s-s-sociaw things >~< xoxox</p>
 </div>
 <br>
 
-
-![github stats](https://github-readme-stats.vercel.app/api?username=MiyukiKoishiro&show_icons=true&theme=radical)
-![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=MiyukiKoishiro&layout=compact&theme=nightowl)
-
-
 <div>
 <h2 align="center"> ~ Thanks for Reading ~ </h2>
 <div align="center">
@@ -60,6 +55,10 @@ most used s-s-sociaw things >~< xoxox</p>
 </div>
 <hr>
 </div> 
+
+![github stats](https://github-readme-stats.vercel.app/api?username=MiyukiKoishiro&show_icons=true&theme=radical)
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=MiyukiKoishiro&layout=compact&theme=nightowl)
+
 </body>
 
 
