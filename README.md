@@ -26,7 +26,7 @@
 </p>
 </div>
 <div align="left" font-size:"24px">
-<h2>           Still Learning</h2>
+<h2>           Currently Learning</h2>
                     
  <img src="https://c.tenor.com/Y0-GHTlcnGoAAAAd/ranko-kanzaki-anime.gif" alt="" align=right height="220px">
 </div>
