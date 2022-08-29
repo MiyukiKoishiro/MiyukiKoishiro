@@ -8,15 +8,5 @@ Welcome to my Github profile :rocket:
 
 ![Shiyzu github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=hikaruyuzu)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hikaruyuzu&layout=compact)
-
-<br>
-<p align="center">
-  <strong><a href="#">Facebook</a></strong> |
-  <strong><a href="#">Twitter</a></strong> |
-  <strong><a href="#">Discord</a></strong> |
-  <strong><a href="#">Telegram</a></strong> |
-  <strong><a href="#">LinkedIn</a></strong> 
-</p>
 
 <p align="center">❤  I have a dream to become Backend developer in Japan.</p>
